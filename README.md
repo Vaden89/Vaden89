@@ -5,7 +5,7 @@
 📄 **Portfolio:** [Isaac Shosanya](https://portfoliobyisaac.netlify.app/)  
 
 ## 🛠 My Tech Stack  
-**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Ant Design, Tailwind CSS  
+**Frontend:** HTML5, CSS3, JavaScript, Python, TypeScript, React, Next.js, Ant Design, Tailwind CSS, MongoDB  
 
 **Backend:** Node.js, NestJS, Express, MongoDB, Appwrite  
 
